@@ -138,7 +138,5 @@ DBXploit - Databricks Exploitation Framework
 ## 📬 Questions / Contributions
 
 For issues, suggestions, or collaboration:
-- Open an issue or pull request on the internal GitHub repository
-- Or contact me directly:
-  - Slack: `@Mohamed` 
-  - Email: `mohamed.mrabah@capitalone.com`
+- Open an issue or pull request on the GitHub repository
+
